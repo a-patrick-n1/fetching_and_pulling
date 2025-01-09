@@ -1,3 +1,9 @@
 Information Technology
+<<<<<<< HEAD
 A+
 b
+=======
+Html
+JavaScript
+a
+>>>>>>> d30373747309d606a55f0d8bfe46f31c20cf48d6
